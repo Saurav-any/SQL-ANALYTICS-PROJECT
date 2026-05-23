@@ -16,3 +16,9 @@ This project simulates a real-world food delivery platform similar to Zomato and
 - SQL
 - VS Code
 - GitHub
+
+- ## Project Files
+
+- schema.sql → Database schema and table creation
+- insert_data.sql → Sample transactional data
+- analytics_queries.sql → Business analytics queries using SQL
