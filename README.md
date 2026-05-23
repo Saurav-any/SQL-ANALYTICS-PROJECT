@@ -1,0 +1,18 @@
+# Food Delivery Analytics SQL Project
+
+## Overview
+This project simulates a real-world food delivery platform similar to Zomato and Swiggy.
+
+## Features
+- Relational database design
+- SQL joins
+- Revenue analysis
+- Customer analytics
+- CASE WHEN conditions
+- Window functions
+
+## Technologies Used
+- MySQL
+- SQL
+- VS Code
+- GitHub
